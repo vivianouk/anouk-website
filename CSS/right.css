@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(240, 155, 58);
+}
+
+.Title{
+    color:rgb(251, 222, 195);
+    font-family: serif;
+    font-size: 75px
+}
+h2{ 
+    font-style: italic;
+    font-size:28px ;
+    color: white;
+}
+#explanation_dread {
+    font-size: 20px;
+    color:rgb(118, 60, 6);
+    
+}
+.nextquestion {
+    color: rgb(118, 60, 6);
+}
+
+#explanation_ballerina {
+    color: rgb(154, 81, 32)
+}
+
+
+
+
+

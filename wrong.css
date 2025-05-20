@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(22, 105, 100);
+}
+.Title{
+    color:rgb(167, 240, 239);
+    font-family:serif ;
+    font-size: 75px
+}
+.paragraph1 { 
+    font-style: italic;
+    font-size:28px ;
+    color: white
+}
+.paragraph2 {
+    font-size: 20px ;
+    color: white ;
+    font-style: italic
+    
+}
+.restartquestion {
+    color: rgb(150, 219, 230);
+}
+
+
+h1 {
+    Color: rgb(190, 132, 90);
+    font-family: serif;
+    font-size: 75px;
+}
+
+#espressona_signora_body {
+    background-color:rgb(90, 59, 44);
+}
+
+
+
+#Title_Assassino {
+    color: rgb(243, 150, 150);
+    font-family: serif;
+    font-size: 75px;
+}
+
+#Assassino_Body {
+    background-color: rgb(115, 29, 29);
+}

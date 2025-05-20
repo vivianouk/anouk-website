@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(236, 180, 187);
+}
+.text{color:white} 
+.heading {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+div {
+    color:rgb(173, 3, 74);
+    font-family: serif;
+    font-size: 15px
+}
+#list_question1 {
+    color:rgb(173, 3, 74);
+    font-family: serif;
+    font-size: 25px
+}
+#starterlink {color: rgb(191, 37, 88);}
+#question1 {
+    color:white;
+    font-size: 30px 
+}
+#ballerina_question {
+    color: rgb(191,37,88);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+td {
+    color: rgb(173, 3, 74);
+    font-size: 30px;
+}
